@@ -22,3 +22,23 @@ A aplicação automatiza o processo de leitura do arquivo `.csv`, tratamento dos
 1. O arquivo CSV é carregado na aplicação
 2. Os dados são lidos e estruturados
 3. As informações são inseridas no banco MySQL
+
+---
+
+## 📦 Dependências
+
+Este projeto utiliza as seguintes tecnologias:
+
+- Python 3.14.0
+- Pandas
+- MySQL
+
+---
+
+## 🚀 Como rodar o projeto
+
+python -m venv venv
+
+source venv/Scripts/activate
+
+pip install -r requirements.txt
